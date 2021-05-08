@@ -1,6 +1,6 @@
 ---
 title: Implantação da Torre de celular em Lagoa dos Patos-MG
-subtitle: Ação de analise foi iniciada nesta quinta-feira dia 03 de dezembro de 2020.
+subtitle: Ação de analise foi iniciada nesta quinta-feira dia 03 de dezembro de 2020
 category:
   - About Awake
 author: Sala Mineira do Empreendedor
