@@ -7,7 +7,7 @@ author: Sala Mineira do Empreendedor
 date: 2020-12-03T11:11:02.997Z
 featureImage: /uploads/pedido-de-viabilidade-torre-tim-lagoa-dos-patos-mg.jpg
 ---
-![](blob:https://blog-salamineira.netlify.app/edac6d35-f480-4741-b321-e1163e11ea89)
+![](/uploads/pedido-de-viabilidade-torre-tim-lagoa-dos-patos-mg.jpg)
 
 Foi data a entrada nesta data, a consulta de viabilidade para implantação de uma torre de celular da operadora TIM em **Lagoa dos Patos-MG**. A sala mineira do empreendedor de Lagoa dos Patos-MG, tratou de agilizar o processo com um importante papel na disponibilização dos documentos solicitados pela empresa.
 
